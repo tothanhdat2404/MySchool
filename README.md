@@ -1,0 +1,2 @@
+# MySchool
+My school website.
